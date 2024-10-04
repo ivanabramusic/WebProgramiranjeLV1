@@ -1,1 +1,1 @@
-# WebProgramiranje - LV1
+# WebProgramiranje-LV1
